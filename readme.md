@@ -1,1 +1,1 @@
-# slaider
+#slider
